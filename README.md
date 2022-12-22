@@ -1,0 +1,1 @@
+Rust hexagonal architecture based on tutorial by Alexis Lozano https://alexis-lozano.com/hexagonal-architecture-in-rust-1/
